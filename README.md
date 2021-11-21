@@ -1,5 +1,5 @@
 # Description 
-A simple program that sells surfboards in three sizes: 
+A simple program that sells surfboards in four sizes: 
 
 | SIZE     | COST    |
 | -------- | ------- |
